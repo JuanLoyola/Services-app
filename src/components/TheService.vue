@@ -183,8 +183,8 @@ export default {
       }
       .cards {
         display: flex;
+        justify-content: center;
         flex-flow: row nowrap;
-        justify-content: space-around;
         width: 771px;
         height: 454px;
         margin-top: 70px;
