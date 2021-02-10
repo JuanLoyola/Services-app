@@ -49,7 +49,7 @@ export default {
 
 <style lang="scss" scoped>
 .content {
-  height: 400px;
+  height: auto;
   background-color: #ffffff;
   display: flex;
   flex-flow: column nowrap;
