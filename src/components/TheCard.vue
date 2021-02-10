@@ -139,5 +139,9 @@ export default {
     align-items: center;
     margin: 0px 30px 18px 30px;
   }
+
+  .btn:hover {
+    background: #3f3f3f;
+  }
 }
 </style>

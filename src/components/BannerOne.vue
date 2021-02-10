@@ -63,6 +63,10 @@ export default {
     align-items: center;
     border-radius: 9px;
   }
+
+  .btn:hover {
+    background-color: #594dc7;
+  }
 }
 
 @media (min-width: 320px) and (max-width: 1366px) {
