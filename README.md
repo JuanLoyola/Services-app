@@ -1,4 +1,4 @@
-# Juan Loyola Servicies App
+# Juan Loyola Services App
 This repository is a practice as a way to try out new things.
 
 # Tools 
