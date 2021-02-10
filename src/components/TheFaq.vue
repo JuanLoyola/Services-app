@@ -2,27 +2,27 @@
   <div class="content">
     <h1 class="content__title">Lorem, ipsum dolor.
     </h1>
-    <FAQQuestion
+    <FAQQuestion data-aos="zoom-in-down"
       question="Lorem ipsum dolor sit amet?"
       answer="Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, vero."
     />
 
-    <FAQQuestion
+    <FAQQuestion data-aos="zoom-in-down"
       question="Lorem ipsum dolor sit amet?"
       answer="Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, vero."
     />
 
-    <FAQQuestion
+    <FAQQuestion data-aos="zoom-in-down"
       question="Lorem ipsum dolor sit amet?"
       answer="Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, vero."
     />
 
-    <FAQQuestion
+    <FAQQuestion data-aos="zoom-in-down"
       question="Lorem ipsum dolor sit amet?"
       answer="Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, vero."
     />
 
-    <FAQQuestion
+    <FAQQuestion data-aos="zoom-in-down"
       question="Lorem ipsum dolor sit amet?"
       answer="Lorem ipsum dolor sit amet consectetur adipisicing elit. Error, vero."
     />

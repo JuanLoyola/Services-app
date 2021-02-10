@@ -1,13 +1,14 @@
 <template>
   <div class="container">
-    <h2 class="container__title">
+    <h2 class="container__title" data-aos="fade-down">
       Lorem ipsum dolor sit amet & consectetur adipisicing.
     </h2>
-    <h4 class="container__subtitle">
+    <h4 class="container__subtitle"
+    data-aos="fade-down">
       Lorem ipsum dolor, sit amet consectetur adipisicing elit.
       <br>Magni expedita velit earum?
     </h4>
-    <a href="#" target="_blank" class="btn">Start your free 7-day trial</a>
+    <a href="#" target="_blank" class="btn" data-aos="fade-down">Start your free 7-day trial</a>
   </div>
 </template>
 

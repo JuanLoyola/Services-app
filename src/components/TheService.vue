@@ -2,7 +2,7 @@
   <div class="container">
     <div class="background">
 
-      <div class="column">
+      <div class="column" data-aos="fade-down">
         <blockquote class="column__info"> <span class="quote">"</span>
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint quam quo ipsam eaque vel, illum earum minima quisquam modi sit, voluptatum fuga doloribus quae nam.
         </blockquote>
@@ -15,11 +15,11 @@
         </div>
       </div>
 
-      <div class="separator">
+      <div class="separator" data-aos="fade-down">
         <div class="line"></div>
       </div>
 
-      <div class="column">
+      <div class="column" data-aos="fade-down">
         <blockquote class="column__info"> <span class="quote">"</span>
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint quam quo ipsam eaque vel, illum earum minima quisquam modi sit, voluptatum fuga doloribus quae nam.
         </blockquote>
@@ -38,7 +38,8 @@
         <h4 class="subtitle">Lorem ipsum dolor sit.</h4>
       </div>
 
-      <div class="cards">
+      <div class="cards"
+      data-aos="zoom-in-down">
         <TheCard
         status="started"
         price="3"

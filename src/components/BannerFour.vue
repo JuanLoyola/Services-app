@@ -3,11 +3,11 @@
 
     <div class="row">
       <div class="background">
-        <img class="example" src="@/assets/exampleImg.svg" alt="example">
+        <img class="example" data-aos="fade-right" src="@/assets/exampleImg.svg" alt="example">
       </div>
       <div class="column">
 
-        <div class="item-row">
+        <div class="item-row" data-aos="fade-left" data-aos-offset="400">
         <img class ="icon" src="@/assets/icon4.svg" alt="logo">
         <div class="content">
           <p class="content-title">4. Lorem, ipsum.</p>
@@ -15,7 +15,7 @@
         </div>
       </div>
 
-      <div class="item-row">
+      <div class="item-row" data-aos="fade-left" data-aos-offset="400">
         <img class ="icon" src="@/assets/icon5.svg" alt="logo">
         <div class="content">
           <p class="content-title">5. Lorem, ipsum.</p>
@@ -23,7 +23,7 @@
         </div>
       </div>
 
-      <div class="item-row">
+      <div class="item-row" data-aos="fade-left" data-aos-offset="400">
         <img class ="icon" src="@/assets/icon6.svg" alt="logo">
         <div class="content">
           <p class="content-title">6. Lorem, ipsum.</p>

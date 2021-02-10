@@ -7,7 +7,7 @@
       Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium dolor qui magnam facilis quasi! Sed <br> magni nesciunt quod.
     </h4>
     <div class="row">
-      <div class="item-row">
+      <div class="item-row" data-aos="fade-down">
         <img class ="icon" src="@/assets/icon1.svg" alt="logo">
         <div class="content">
           <p class="content-title">Lorem, ipsum.</p>
@@ -15,7 +15,7 @@
         </div>
       </div>
 
-      <div class="item-row">
+      <div class="item-row" data-aos="fade-down">
         <img class ="icon" src="@/assets/icon2.svg" alt="logo">
         <div class="content">
           <p class="content-title">Lorem, ipsum.</p>
@@ -23,7 +23,7 @@
         </div>
       </div>
 
-      <div class="item-row">
+      <div class="item-row" data-aos="fade-down">
         <img class ="icon" src="@/assets/icon3.svg" alt="logo">
         <div class="content">
           <p class="content-title">Lorem, ipsum.</p>
@@ -31,7 +31,7 @@
         </div>
       </div>
 
-      <div class="item-row">
+      <div class="item-row" data-aos="fade-down">
         <img class ="icon" src="@/assets/icon4.svg" alt="logo">
         <div class="content">
           <p class="content-title">Lorem, ipsum.</p>
@@ -39,7 +39,7 @@
         </div>
       </div>
 
-      <div class="item-row">
+      <div class="item-row" data-aos="fade-down">
         <img class ="icon" src="@/assets/icon5.svg" alt="logo">
         <div class="content">
           <p class="content-title">Lorem, ipsum.</p>
@@ -47,7 +47,7 @@
         </div>
       </div>
 
-      <div class="item-row">
+      <div class="item-row" data-aos="fade-down">
         <img class ="icon" src="@/assets/icon6.svg" alt="logo">
         <div class="content">
           <p class="content-title">Lorem, ipsum.</p>
