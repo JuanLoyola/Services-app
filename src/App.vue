@@ -16,5 +16,6 @@
   margin: 0;
   box-sizing: border-box;
   text-decoration: none;
+  scroll-behavior: smooth;
 }
 </style>

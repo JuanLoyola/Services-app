@@ -11,22 +11,21 @@
       </a>
     </div>
     <div class="container-row">
-      <a class="footerMenu" href="#">Lorem</a>
-      <a class="footerMenu" href="#">Lorem</a>
-      <a class="footerMenu" href="#">Lorem</a>
-      <a class="footerMenu" href="#">Lorem</a>
-      <a class="footerMenu" href="#">Lorem</a>
+      <a class="footerMenu" href="#">Home</a>
+      <a class="footerMenu" href="#">About</a>
+      <a class="footerMenu" href="#">Services</a>
+      <a class="footerMenu" href="#">FAQ</a>
     </div>
 
     <div class="container-row__social">
       <span class="icon">
-        <a href="#">
+        <a href="https://www.linkedin.com/in/loyolajuan/" target="_blank">
           <img class="iconIMG" src="@/assets/linkedin.svg" alt="linkedin logo">
         </a>
       </span>
 
       <span class="icon">
-        <a href="#">
+        <a href="https://github.com/JuanLoyola" target="_blank">
           <img class="iconIMG" src="@/assets/github.svg" alt="github logo">
         </a>
       </span>

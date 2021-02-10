@@ -6,10 +6,10 @@
         <i class="fas fa-bars"></i>
       </label>
       <ul class="menu">
-        <li><a href="#">Lorem</a></li>
-        <li><a href="#about">Lorem</a></li>
-        <li><a href="#portfolio">Lorem</a></li>
-        <li><a href="#contact">Lorem</a></li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">FAQ</a></li>
       </ul>
     </div>
   </div>
