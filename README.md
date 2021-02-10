@@ -12,3 +12,6 @@ This repository is a practice as a way to try out new things.
 
 # Mobile preview:
 oops!.. No mobile preview, but it works. 😉
+
+# See the live here:
+<a href="https://aboutservices.netlify.app/" target="_blank">Click me</a>
