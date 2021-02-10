@@ -6,6 +6,7 @@
     <BannerThree/>
     <BannerFour/>
     <TheService/>
+    <TheFaq/>
   </div>
 </template>
 
@@ -16,6 +17,7 @@ import BannerTwo from '@/components/BannerTwo.vue'
 import BannerThree from '@/components/BannerThree.vue'
 import BannerFour from '@/components/BannerFour.vue'
 import TheService from '@/components/TheService.vue'
+import TheFaq from '@/components/TheFaq.vue'
 
 export default {
   name: 'Home',
@@ -26,7 +28,8 @@ export default {
     BannerTwo,
     BannerThree,
     BannerFour,
-    TheService
+    TheService,
+    TheFaq
   }
 }
 </script>

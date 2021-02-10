@@ -192,4 +192,165 @@ export default {
     }
   }
 }
+
+@media (min-width: 320px) and (max-width: 1023px){
+  .container {
+    width: 100%;
+    height: 100%;
+
+    .background {
+      width: 100%;
+      height: 100%;
+
+      .column {
+        &__info {
+          font-size: 1rem;
+
+          .quote {
+            font-size: 2rem;
+          }
+        }
+
+        &__sign {
+
+          .avatar {
+            width: 58px;
+            height: 52px;
+          }
+
+          .user {
+            display: flex;
+            flex-flow: column nowrap;
+
+            &__name {
+              font-weight: 500;
+              font-size: 1rem;
+              line-height: 18px;
+              display: flex;
+              align-items: center;
+              color: #FFFFFF;
+              margin-bottom: 12px;
+            }
+
+            &__info {
+              font-size: 0.7rem;
+              font-weight: bold;
+              line-height: 12px;
+              display: flex;
+              align-items: center;
+              color: #A9CFF7;
+            }
+          }
+        }
+      }
+
+      .separator {
+        .line {
+          transform: rotate(0deg);
+        }
+      }
+
+      .info {
+        .content {
+          .title {
+            font-size: 2rem;
+            margin-top: 30px;
+          }
+        }
+        .cards {
+          flex-flow: column nowrap;
+          justify-content: center;
+          align-self: center;
+          width: 271px;
+          height: 100%;
+          margin-top: 20px;
+        }
+      }
+    }
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1366px){
+  .container {
+    width: 100%;
+    height: 100%;
+
+    .background {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-flow: row wrap;
+      justify-content: center;
+      align-items: center;
+
+      .column {
+        max-width: 350px;
+        &__info {
+          font-size: 1rem;
+
+          .quote {
+            font-size: 2rem;
+          }
+        }
+
+        &__sign {
+
+          .avatar {
+            width: 58px;
+            height: 52px;
+          }
+
+          .user {
+            display: flex;
+            flex-flow: column nowrap;
+
+            &__name {
+              font-weight: 500;
+              font-size: 1rem;
+              line-height: 18px;
+              display: flex;
+              align-items: center;
+              color: #FFFFFF;
+              margin-bottom: 12px;
+            }
+
+            &__info {
+              font-size: 0.7rem;
+              font-weight: bold;
+              line-height: 12px;
+              display: flex;
+              align-items: center;
+              color: #A9CFF7;
+            }
+          }
+        }
+      }
+
+      .separator {
+        .line {
+          transform: rotate(90deg);
+        }
+      }
+
+      .info {
+        .content {
+          .title {
+            font-size: 2rem;
+            margin-top: 30px;
+          }
+        }
+        .cards {
+          flex-flow: row nowrap;
+          justify-content: center;
+          align-self: center;
+          width: 271px;
+          height: 100%;
+          margin-top: 30px;
+          margin-bottom: 30px;
+        }
+      }
+    }
+  }
+}
+
 </style>

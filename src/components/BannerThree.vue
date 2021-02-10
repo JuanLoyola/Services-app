@@ -114,7 +114,7 @@ export default {
   }
 }
 
-@media (min-width: 320px) and (max-width: 1024px) {
+@media (min-width: 320px) and (max-width: 1023px) {
     .container {
     height: 100%;
     display: flex;
@@ -127,6 +127,44 @@ export default {
 
     .row {
       flex-flow: column nowrap;
+
+      .column {
+        width: 100%;
+        text-align: center;
+
+        .info {
+          width: 100%;
+        }
+
+        .item-row {
+          justify-content: center;
+        }
+      }
+
+      .background {
+        background-image: none;
+
+        .example {
+          width: 320px;
+        }
+      }
+    }
+  }
+}
+@media (min-width: 320px) and (max-width: 1024px) {
+    .container {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column nowrap;
+    &-title {
+      font-size: 1.3rem;
+      margin-top: 30px;
+    }
+
+    .row {
+      flex-flow: row wrap;
 
       .column {
         width: 100%;
